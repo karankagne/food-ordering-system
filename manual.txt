@@ -1,0 +1,32 @@
+food ordering system
+
+
+ 
+1. install xampp provided in the folder
+2. extract the given rar project folder
+3. save rar folder inside local:c/xampp/htdocs
+4. open xampp control panel
+5. start apache and mysql
+6. go to mysql admin
+7. select databases and create with the name food
+8. click go
+9. select import and choose file food.sql inside project folder as sql
+10.click go
+11.open browser and run localhost/food-ordering-system/
+   
+
+
+Admin login
+Username: admin
+Pass: admin
+
+Customer login
+Username:rahul11
+Pass:rahul12
+Or
+Register
+
+
+Wallet credentials
+Card no : 2544-4385-7145-3131
+Cvv : 475
